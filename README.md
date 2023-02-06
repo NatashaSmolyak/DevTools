@@ -1,5 +1,5 @@
 ## DevTools. Home work
-[![DevTools](https://github.com/NatashaSmolyak/DevTools/blob/main/assets/chrome-devtools.jpg)](https://drive.google.com/file/d/1nGG1ngTbCExkQaOCPvnAHxYPK4op0K6g/view?usp=share_link)
+[![DevTools](https://github.com/NatashaSmolyak/DevTools/blob/main/assets/chrome-devtools.png)](https://drive.google.com/file/d/1nGG1ngTbCExkQaOCPvnAHxYPK4op0K6g/view?usp=share_link)
 1. Открыть Chrome DevTools
 2. Зайти в панель Elements.
 3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
